@@ -1,0 +1,12 @@
+.card-text, .card-title{
+  text-align: left;
+}
+
+.footer {
+  background: #e8ecef;
+}
+
+.btn{
+  background-color: #df7571;
+  color: #fff;
+}
